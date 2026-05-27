@@ -2,6 +2,7 @@
   "name": "filter-system",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://32oq.github.io/test-filters",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
